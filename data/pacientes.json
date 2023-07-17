@@ -1,0 +1,43 @@
+{
+    "03709": {
+        "id": "03709",
+        "nombre": "MATEO",
+        "raza": "GOLDEN",
+        "edad": 3,
+        "nombrePropietario": "JUAN",
+        "tipo": "PERRO"
+    },
+    "00304": {
+        "id": "00304",
+        "nombre": "LUKI",
+        "raza": "HUSKY",
+        "edad": 8,
+        "nombrePropietario": "ANDRES",
+        "tipo": "PERRO",
+        "historial": "PROBLEMAS DEL HIGADO O HONGOS EN LAS PATAS"
+    },
+    "01854": {
+        "id": "01854",
+        "nombre": "KIARA",
+        "raza": "PUDDLE",
+        "edad": 5,
+        "nombrePropietario": "OSCAR",
+        "tipo": "PERRO"
+    },
+    "07279": {
+        "id": "07279",
+        "nombre": "HOMERO",
+        "raza": "SIAMES",
+        "edad": 6,
+        "nombrePropietario": "ALEJANDRA",
+        "tipo": "GATO"
+    },
+    "08963": {
+        "id": "08963",
+        "nombre": "CLAUDIA",
+        "raza": "PINCHER",
+        "edad": 5,
+        "nombrePropietario": "JULIAN",
+        "tipo": "PERRO"
+    }
+}

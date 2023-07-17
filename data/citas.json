@@ -1,0 +1,43 @@
+{
+    "01136": {
+        "idCita": "01136",
+        "nombrePaciente": "KIARA",
+        "idPac": "01854",
+        "idVet": "05433",
+        "veterinario": "ANDRES",
+        "fechaCita": "23/07/2023",
+        "horaCita": "14:00"
+    },
+    "07027": {
+        "idCita": "07027",
+        "nombrePaciente": "HOMERO",
+        "idPac": "07279",
+        "idVet": "05408",
+        "veterinario": "LAURA",
+        "fechaCita": "25/07/2023",
+        "horaCita": "07:00"
+    },
+    "07583": {
+        "idCita": "07583",
+        "nombrePaciente": "LUKI",
+        "idPac": "00304",
+        "idVet": "01762",
+        "veterinario": "OSCAR",
+        "fechaCita": "02/08/2023",
+        "horaCita": "17:00",
+        "titulo": "ONCOLOGO",
+        "horario": [
+            "16:01",
+            "17:00",
+            "18:00",
+            "19:00",
+            "20:00",
+            "21:00",
+            "22:00",
+            "23:00",
+            "23:59"
+        ],
+        "razaPaciente": "HUSKY",
+        "edadPaciente": 8
+    }
+}
